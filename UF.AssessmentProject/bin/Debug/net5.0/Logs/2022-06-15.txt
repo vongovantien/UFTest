@@ -1,0 +1,20 @@
+2022-06-15 22:02:20,536 [1] INFO  Now listening on: https://localhost:5001 
+ 
+2022-06-15 22:02:20,574 [1] INFO  Now listening on: http://localhost:5000 
+ 
+2022-06-15 22:02:20,579 [1] INFO  Application started. Press Ctrl+C to shut down. 
+ 
+2022-06-15 22:02:20,585 [1] INFO  Hosting environment: Development 
+ 
+2022-06-15 22:02:20,592 [1] INFO  Content root path: C:\Users\Folio\Downloads\UF.AssessmentProject 
+ 
+2022-06-15 22:11:56,258 [1] INFO  Now listening on: https://localhost:5001 
+ 
+2022-06-15 22:11:56,287 [1] INFO  Now listening on: http://localhost:5000 
+ 
+2022-06-15 22:11:56,314 [1] INFO  Application started. Press Ctrl+C to shut down. 
+ 
+2022-06-15 22:11:56,320 [1] INFO  Hosting environment: Development 
+ 
+2022-06-15 22:11:56,341 [1] INFO  Content root path: D:\res\UF.Test\UF.AssessmentProject 
+ 

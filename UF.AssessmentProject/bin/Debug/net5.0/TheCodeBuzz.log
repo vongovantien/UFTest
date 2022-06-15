@@ -1,0 +1,16 @@
+2022-06-15 13:04:09,474  INFO Microsoft.Hosting.Lifetime.MoveNext [0] - MESSAGE: Now listening on: https://localhost:5001
+ 2022-06-15 13:04:09,590  INFO Microsoft.Hosting.Lifetime.MoveNext [0] - MESSAGE: Now listening on: http://localhost:5000
+ 2022-06-15 13:04:09,594  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-06-15 13:04:09,596  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-06-15 13:04:09,598  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\Folio\Downloads\UF.AssessmentProject
+ 2022-06-15 13:04:44,515  INFO UF.AssessmentProject.Controllers.TransactionController.TestAPI [89] - MESSAGE: Completed : Item details are van tien
+ 2022-06-15 13:06:51,964  INFO UF.AssessmentProject.Controllers.TransactionController.TestAPI [89] - MESSAGE: Completed : Item details are van tien
+ 2022-06-15 13:06:53,319  INFO UF.AssessmentProject.Controllers.TransactionController.TestAPI [89] - MESSAGE: Completed : Item details are van tien
+ 2022-06-15 13:06:53,768  INFO UF.AssessmentProject.Controllers.TransactionController.TestAPI [89] - MESSAGE: Completed : Item details are van tien
+ 2022-06-15 13:06:55,276  INFO UF.AssessmentProject.Controllers.TransactionController.TestAPI [89] - MESSAGE: Completed : Item details are van tien
+ 2022-06-15 13:09:49,687  INFO Microsoft.Hosting.Lifetime.MoveNext [0] - MESSAGE: Now listening on: https://localhost:5001
+ 2022-06-15 13:09:49,795  INFO Microsoft.Hosting.Lifetime.MoveNext [0] - MESSAGE: Now listening on: http://localhost:5000
+ 2022-06-15 13:09:49,798  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-06-15 13:09:49,801  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-06-15 13:09:49,804  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\Folio\Downloads\UF.AssessmentProject
+ 

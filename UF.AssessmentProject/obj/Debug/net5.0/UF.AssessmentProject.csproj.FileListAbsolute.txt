@@ -1,0 +1,172 @@
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.AssemblyInfoInputs.cache
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.AssemblyInfo.cs
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.csproj.CoreCompileInputs.cache
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\appsettings.json
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.exe
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.deps.json
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.runtimeconfig.json
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.runtimeconfig.dev.json
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\ref\UF.AssessmentProject.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.pdb
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\staticwebassets\UF.AssessmentProject.StaticWebAssets.Manifest.cache
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\staticwebassets\UF.AssessmentProject.StaticWebAssets.xml
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\scopedcss\bundle\UF.AssessmentProject.styles.css
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.RazorTargetAssemblyInfo.cache
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.csproj.CopyComplete
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\ref\UF.AssessmentProject.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.pdb
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.genruntimeconfig.cache
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\appsettings.json
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.StaticWebAssets.xml
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.exe
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.deps.json
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.runtimeconfig.json
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.runtimeconfig.dev.json
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.pdb
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.csproj.AssemblyReference.cache
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.AssemblyInfoInputs.cache
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.AssemblyInfo.cs
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.csproj.CoreCompileInputs.cache
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\scopedcss\bundle\UF.AssessmentProject.styles.css
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\staticwebassets\UF.AssessmentProject.StaticWebAssets.Manifest.cache
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.RazorTargetAssemblyInfo.cache
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.csproj.CopyComplete
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\refint\UF.AssessmentProject.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.pdb
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.genruntimeconfig.cache
+C:\Users\Folio\Downloads\UF.AssessmentProject\obj\Debug\net5.0\ref\UF.AssessmentProject.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\log4net.config
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\log4net.dll
+C:\Users\Folio\Downloads\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\log4net.config
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\appsettings.Development.json
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\appsettings.json
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.exe
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.deps.json
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.runtimeconfig.json
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.runtimeconfig.dev.json
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\ref\UF.AssessmentProject.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.pdb
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Humanizer.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\log4net.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\res\UF.Test\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.csproj.AssemblyReference.cache
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.AssemblyInfoInputs.cache
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.AssemblyInfo.cs
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.csproj.CoreCompileInputs.cache
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.MvcApplicationPartsAssemblyInfo.cs
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.MvcApplicationPartsAssemblyInfo.cache
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\staticwebassets\UF.AssessmentProject.StaticWebAssets.Manifest.cache
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\staticwebassets\UF.AssessmentProject.StaticWebAssets.xml
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\scopedcss\bundle\UF.AssessmentProject.styles.css
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.RazorTargetAssemblyInfo.cache
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.csproj.CopyComplete
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.dll
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\ref\UF.AssessmentProject.dll
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.pdb
+D:\res\UF.Test\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.genruntimeconfig.cache

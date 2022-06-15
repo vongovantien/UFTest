@@ -1,0 +1,23 @@
+2022-06-15 13:26:33,939 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: https://localhost:5001
+2022-06-15 13:26:33,953 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5000
+2022-06-15 13:26:33,956 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-06-15 13:26:33,958 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-06-15 13:26:33,960 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Folio\Downloads\UF.AssessmentProject
+2022-06-15 13:26:42,667 [6] ERROR UF.AssessmentProject.Controllers.TransactionController - Completed : contructor
+2022-06-15 13:26:42,674 [6] ERROR UF.AssessmentProject.Controllers.TransactionController - Completed : Item details are van tien
+2022-06-15 13:27:07,154 [6] ERROR UF.AssessmentProject.Controllers.TransactionController - Completed : contructor
+2022-06-15 13:27:07,158 [6] ERROR UF.AssessmentProject.Controllers.TransactionController - Completed : Item details are van tien
+2022-06-15 13:27:13,979 [7] ERROR UF.AssessmentProject.Controllers.TransactionController - Completed : contructor
+2022-06-15 13:27:13,983 [7] ERROR UF.AssessmentProject.Controllers.TransactionController - Completed : Item details are van tien
+2022-06-15 13:29:19,576 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: https://localhost:5001
+2022-06-15 13:29:19,603 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5000
+2022-06-15 13:29:19,607 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-06-15 13:29:19,609 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-06-15 13:29:19,614 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Folio\Downloads\UF.AssessmentProject
+2022-06-15 13:29:32,623 [9] ERROR UF.AssessmentProject.Controllers.TransactionController - Completed : contructor
+2022-06-15 13:29:32,628 [9] ERROR UF.AssessmentProject.Controllers.TransactionController - Completed : Item details are van tien
+2022-06-15 15:44:12,840 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: https://localhost:5001
+2022-06-15 15:44:12,863 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5000
+2022-06-15 15:44:12,875 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-06-15 15:44:12,893 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-06-15 15:44:12,932 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Folio\Downloads\UF.AssessmentProject
